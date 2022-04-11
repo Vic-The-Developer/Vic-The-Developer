@@ -31,6 +31,7 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 ### :man_technologist: About Me :
+
 I am a Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">from Nairobi, Kenya.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
@@ -60,6 +61,5 @@ I am a Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vic-The-Developer&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vic-The-Developer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
