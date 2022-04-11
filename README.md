@@ -39,7 +39,7 @@ I am a Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I watch movies, create websites and read tech articles.
 
-- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-Vic-the-technologist-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/BenTobey3)
+- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-BenTobey3-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/BenTobey3)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
