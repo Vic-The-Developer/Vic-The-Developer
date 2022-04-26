@@ -40,7 +40,7 @@ I am a Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :seedling: Exploring Deep Backend Developement 👀.
 
-- :zap: In my free time, I watch movies, browse on socialmedia, create websites and read tech articles.
+- :zap: In my free time, I watch movies, browse on social media, create websites and read tech articles.
 
 - :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/-BenTobey3-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/BenTobey3)
 
