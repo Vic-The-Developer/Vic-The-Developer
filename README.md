@@ -74,4 +74,4 @@ I am a Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 ![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vic-The-Developer&show_icons=true&theme=radical)
 
-[![Victor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VickMwendwa)](https://github.com/anuraghazra/github-readme-stats)
+[![Victor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VickMwendwa&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
