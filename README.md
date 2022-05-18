@@ -72,4 +72,4 @@ I am a Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vic-The-Developer&repo=v-chat&layout=compact&theme=vision-friendly-dark)](https://github.com/Vic-The-Developer/v-chat)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wVic-The-Developer)](https://github.com/anuraghazra/github-readme-stats)
+[![Victor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Vic-The-Developer)](https://github.com/anuraghazra/github-readme-stats)
