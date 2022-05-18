@@ -71,14 +71,13 @@ I am a Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmT
     <td><img src="http://github-readme-streak-stats.herokuapp.com?user=Vic-The-Developer&theme=dark&date_format=M%20j%5B%2C%20Y%5D"/></td>
     <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vic-The-Developer&layout=compact&theme=vision-friendly-dark"/></td>
   </tr>
+  
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vic-The-Developer&repo=v-chat&layout=compact&theme=vision-friendly-dark"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Vic-The-Developer&show_icons=true&theme=radical"/></td>
+  </tr>
+  
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=VickMwendwa&theme=dracula"/></td>
+  </tr>
 </table>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vic-The-Developer&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vic-The-Developer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vic-The-Developer&repo=v-chat&layout=compact&theme=vision-friendly-dark)](https://github.com/Vic-The-Developer/v-chat)
-
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vic-The-Developer&show_icons=true&theme=radical)
-
-[![Victor's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=VickMwendwa&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
