@@ -70,4 +70,4 @@ I am a Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vic-The-Developer&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vic-The-Developer&repo=portfolio)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vic-The-Developer&repo=v-chat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
