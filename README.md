@@ -82,6 +82,6 @@ I am a Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=VickMwendwa&theme=dracula"/></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/wakatime?username=VickMwendwa&theme=cobalt"/></td>
   </tr>
 </table>
