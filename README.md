@@ -86,3 +86,5 @@ I am a Full Stack Developer<img src="https://media.giphy.com/media/WUlplcMpOCEmT
     <td><img src="https://wakatime.com/share/@VickMwendwa/a9d51e7d-cde2-4fa3-9b4f-931f8a7d955d.svg"/></td>
   </tr>
 </table>
+
+https://api.githubtrends.io/user/svg/Vic-The-Developer/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True&theme=bright_lights
